@@ -2,13 +2,23 @@
 }
 
 #clock img {
+    position: fixed;
 }
 
 #hour {
+    stroke-width: 2px;
+    position: relative;
+    
 }
 
 #minute {
+    stroke-width: 1.5px;
+    position: relative;
+    
 }
 
 #second {
+    stroke-width: 1px;
+    position: relative;
 }
+
