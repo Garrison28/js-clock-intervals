@@ -9,17 +9,19 @@
 #hour {
     
     position: relative;
+    z-index: 1;
     
 }
 
 #minute {
     
     position: relative;
+    z-index: 2;
     
 }
 
 #second {
-    
     position: relative;
+    z-index: 3;
 }
 

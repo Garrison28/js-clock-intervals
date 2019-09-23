@@ -6,7 +6,7 @@ var secondHand = document.getElementById("second");
 
 
 function clock(){
-    //var new date provides real time
+    //var new date provides real time 
 var curDate = new Date();
 console.log(curDate);
 let hour = curDate.getHours();
